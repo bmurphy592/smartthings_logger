@@ -44,6 +44,6 @@
 
 ## Resources
 
-[SmartApp Web Services](http://docs.smartthings.com/en/latest/smartapp-web-services-developers-guide/)
-[SmartThings Event Reference](http://docs.smartthings.com/en/latest/ref-docs/event-ref.html#event-ref)
-[SmartThings Capabilities Reference](http://docs.smartthings.com/en/latest/capabilities-reference.html#capabilities-taxonomy)
+[SmartApp Web Services](http://docs.smartthings.com/en/latest/smartapp-web-services-developers-guide/) <br>
+[SmartThings Event Reference](http://docs.smartthings.com/en/latest/ref-docs/event-ref.html#event-ref) <br>
+[SmartThings Capabilities Reference](http://docs.smartthings.com/en/latest/capabilities-reference.html#capabilities-taxonomy) <br>
