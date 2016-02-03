@@ -33,8 +33,8 @@ Server Setup
 1. Install python https://www.python.org/downloads/
 2. Install pip https://pip.pypa.io/en/stable/installing/
 3. Install bottle:
-    pip install bottle
+<code>pip install bottle</code>
 4. Install ipgetter:
-    pip install ipgetter
+<code>pip install ipgetter</code>
 5. With the SmartApp already setup, run the server
-		python power_meter_api_endpoint.py
+<code>python power_meter_api_endpoint.py</code>
