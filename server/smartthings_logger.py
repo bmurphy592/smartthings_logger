@@ -30,10 +30,12 @@ def log():
 
 def subscribe(api_endpoint):
 	resp = requests.put(api_endpoint+'/subscribe?loggeruri=http%3A%2F%2F'+myip+'%3A'+str(port)+'%2Flog', headers={'Authorization': 'Bearer '+oath_token})
+	pdb.set_trace()
 
 # Method for discovering the endpoint exposed by the SmartApp
 def discover_endpoint():
 	resp = requests.get('https://graph.api.smartthings.com/api/smartapps/endpoints', headers={'Authorization': 'Bearer '+oath_token})
+	pdb.set_trace()
 	return resp.json()[0]['uri']
 
 
