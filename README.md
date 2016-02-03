@@ -1,8 +1,8 @@
 # SmartThings Logger
 
-## SmartApp Setup
+## Setup
 
-### Installation
+### Loading the SmartApp
 
 1. Log in to https://graph.api.smartthings.com/
 2. Go to 'My SmartApps'
@@ -11,7 +11,7 @@
 5. Copy and paste the code from <code>smartapp/power_meter_api_endpoint.groovy</code> into the text box
 6. Click 'Create'
 
-### Obtaining the OAuth Token
+### Obtaining the OAuth token
 
 1. Go to 'My SmartApps'
 2. Click on 'Power Meter API Endpoint'
@@ -34,7 +34,7 @@
 9. Select the devices that you want to monitor
 10. Select 'Done'
 
-### Server Setup
+### Running the server
 
 1. [Install python](https://www.python.org/downloads/)
 2. [Install pip](https://pip.pypa.io/en/stable/installing/)
